@@ -1,0 +1,9 @@
+name: poker-now-analysis
+channels:
+  - conda-forge
+dependencies:
+  - ipywidgets=7.6.3
+  - voila=0.2.6
+  - matplotlib==3.3.3
+  - pandas==1.2.0
+  - plotly==4.14.3
